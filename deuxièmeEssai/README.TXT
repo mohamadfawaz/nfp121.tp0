@@ -4,9 +4,9 @@ Dites au lecteur (qui ne sait rien du projet) ce qu'il a besoin de savoir.
 Au minimum, remplissez cette description :
 ------------------------------------------------------------------------
 
-TITRE DU PROJET :
-BUT POURSUIVI :
-VERSION ou DATE :
+TITRE DU PROJET :tp0
+BUT POURSUIVI :fair un github
+VERSION ou DATE :11/27/2022
 COMMENT INVOQUER CE PROJET :
-AUTEURS :
+AUTEURS :Mohamad fawaz
 INSTRUCTIONS Ŕ L'USAGER :
