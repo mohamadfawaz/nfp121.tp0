@@ -2,8 +2,8 @@
 /**
  * Décrivez votre classe A ici.
  *
- * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @author Mohamad fawaz
+ * @version 27/11/2022
  */
 public class A
 {
